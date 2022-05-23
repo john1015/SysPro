@@ -1,0 +1,4 @@
+#!/bin/bash
+# using tge backtick character
+testing=`date`
+echo "The date and time are: " $testing
